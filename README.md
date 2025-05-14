@@ -1,6 +1,10 @@
 # Elevate-Labs-Day2
 # Video Game Sales Dashboard Methodology
 
+## Dataset and Dashboard Links
+- **Dataset**: [vgsales.csv](https://raw.githubusercontent.com/tayyab415/Elevate-Labs-Day2/main/vgsales.csv)  
+- **Dashboard**: [dashboard-elevatellabs-day2.pdf (Download)](https://github.com/tayyab415/Elevate-Labs-Day2/blob/main/dashboard-elevatellabs-day2.pdf)
+- 
 ## Data Preparation
 - **Source**: Used a video game sales dataset (e.g., from Kaggle) with columns: Name, Platform, Year, Genre, Publisher, Global_Sales.
 - **Cleaning**: Removed missing/duplicate entries, standardized platform/publisher names, filtered years (1980-2020), ensured correct data types.
