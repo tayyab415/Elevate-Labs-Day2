@@ -2,7 +2,7 @@
 # Video Game Sales Dashboard Methodology
 
 ## Dataset and Dashboard Links
-- [Dataset](https://raw.githubusercontent.com/tayyab415/Elevate-Labs-Day2/blob/main/vgsales.csv)  : 'vgsales.csv'
+- [Dataset](https://github.com/tayyab415/Elevate-Labs-Day2/blob/main/vgsales.csv)  : 'vgsales.csv'
 - [Dashboard(Download)](https://github.com/tayyab415/Elevate-Labs-Day2/blob/main/dashboard-elevatellabs-day2.pdf) : 'elevatellabs-day2.pdf'
  
 ## Data Preparation
